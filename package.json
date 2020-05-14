@@ -1,5 +1,5 @@
 {
-  "name": "soucriador-simple-restful-api",
+  "name": "soucriador-simple-restserver",
   "version": "1.0.0",
   "description": "Sou Criador Simple Restful API (Node express MySQL)",
   "main": "src/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jhonattas/soucriador-simple-restful-api.git"
+    "url": "git+https://github.com/jhonattas/soucriador-simple-restserver.git"
   },
   "keywords": [
     "Node",
@@ -22,9 +22,9 @@
   "author": "Jhonattas Henrique",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jhonattas/soucriador-simple-restful-api/issues"
+    "url": "https://github.com/jhonattas/soucriador-simple-restserver/issues"
   },
-  "homepage": "https://github.com/jhonattas/soucriador-simple-restful-api#readme",
+  "homepage": "https://github.com/jhonattas/soucriador-simple-restserver#readme",
   "dependencies": {
     "bcrypt": "^4.0.1",
     "body-parser": "^1.19.0",
